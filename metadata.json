@@ -1,0 +1,6 @@
+{
+  "name": "IT Fragrance Atelier PK | Luxury Scent Boutique",
+  "description": "Discover your signature scent with IT Fragrance. Artisanal Eau de Parfum collection with fast delivery and WhatsApp checkout across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
